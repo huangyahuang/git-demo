@@ -7,5 +7,5 @@ fun add(a: Int, b: Int): Int {
 }
 
 fun mutli(a: Int, b: Int): Int {
-    return a / b
+    return a * b
 }
